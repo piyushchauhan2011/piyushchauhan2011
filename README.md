@@ -10,7 +10,7 @@ I care about clear state ownership, maintainable components, fast local developm
 
 ## A little about my work
 
-- **RabbitCare:** Hired and led 10 engineers while staying hands-on across insurance journeys, country websites, and backoffice applications. Built shared Next.js/Strapi architecture supporting four country-site launches, migrated the admin app from CRA to Vite, and integrated Statsig with Strapi for experiment-page launches without code changes.
+- **RabbitCare:** Worked hands-on across insurance journeys, country websites, and backoffice applications. Built shared Next.js/Strapi architecture supporting four country-site launches, migrated the admin app from CRA to Vite, and integrated Statsig with Strapi for experiment-page launches without code changes.
 - **Agoda:** Delivered hotel-shopping UI changes, configured and analysed experiments, evaluated build-tool changes, and rotated through on-call and release engineering.
 - **Earlier:** Built web applications at Oozou and Jirnexu/RinggitPlus, with earlier frontend experience at TrademarkVision and Otherlevels.
 
@@ -38,6 +38,6 @@ I write about frontend architecture, integration, and engineering delivery:
 
 ## Let's connect
 
-Based in **Jaipur, India**. Open to **senior frontend** and **hands-on technical lead** opportunities in **Bangkok**, **Kuala Lumpur**, or **remotely from India**. Relocation requires employer sponsorship.
+Based in **Bangkok, Thailand**. Open to **senior frontend** and **hands-on technical lead** opportunities in **Bangkok**, **Kuala Lumpur**, or **remote roles**. Relocation requires employer sponsorship.
 
 Email is the best way to reach me: **[piyushchauhan2011@gmail.com](mailto:piyushchauhan2011@gmail.com)**.
